@@ -61,7 +61,8 @@
     font-weight: 700;
     font-size: 100px;
     letter-spacing: 0.3em;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
 }
 
 .no-letter-spacing {
@@ -109,7 +110,7 @@
     text-align: center;
     border: 1px solid white;
     width: 256px;
-    height: 51px;
+    padding: 12px;
 }
 
 .lots {
